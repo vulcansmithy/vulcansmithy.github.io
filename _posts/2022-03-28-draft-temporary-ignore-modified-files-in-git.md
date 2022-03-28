@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Temporary ignore modified files in git
+title: Temporary ignore any changes done to a file in git
 ---
 
 

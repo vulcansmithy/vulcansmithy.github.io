@@ -3,7 +3,8 @@ layout: post
 title: Photo Experiment
 ---
 
-![photo1](https://res.cloudinary.com/azimuth-mercantile-goods/image/upload/w_500,ar_1:1,c_fill,g_auto,e_art:hokusai/v1645178377/FullSizeRender-sanitized_cpgh7t.jpg)
+
+![photo1](https://res.cloudinary.com/azimuth-mercantile-goods/image/upload/w_800,ar_1:1,c_fill,g_auto,e_art:hokusai/v1645178377/FullSizeRender-sanitized_cpgh7t.jpg)
 
 
 
